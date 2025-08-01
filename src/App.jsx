@@ -9,8 +9,7 @@ function App() {
   return (
     <>
       <div>
-        Welcome
-       
+             welcome       
       </div>
       
       
